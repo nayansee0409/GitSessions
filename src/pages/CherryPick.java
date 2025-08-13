@@ -14,13 +14,17 @@ public class CherryPick {
 		System.out.println("r2 version");
 
 		System.out.println("r3 version");
-<<<<<<< HEAD
 		
 		System.out.println("r2 version");
 
 		System.out.println("r3 version");
-=======
->>>>>>> b576b1a (second cherry pick case)
+		
+System.out.println("cherry pick version");
+		
+		System.out.println("r2 version");
+
+		System.out.println("r3 version");
+
 
 	}
 
