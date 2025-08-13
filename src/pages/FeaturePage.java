@@ -11,6 +11,10 @@ public class FeaturePage {
 		System.out.println("F2 version");
 		
 		System.out.println("F3 version");
+	
+		String F2 = "feature";
+		String F3 = "feature";
+		
 	}
 
 }
