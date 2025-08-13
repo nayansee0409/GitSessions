@@ -21,9 +21,15 @@ public class CherryPick {
 		if (true)
 		{
 			System.out.println("stash is important");
+<<<<<<< Updated upstream
 		}else{
 			System.out.println("stash is important");
 			
+=======
+		}
+		
+		
+>>>>>>> Stashed changes
 	}
 }
 
