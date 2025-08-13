@@ -10,6 +10,7 @@ public class ClassicPage {
 		int d = 40;
 		int e = 40;
 		int f = 60;
+		int g = 90;
 
 		System.out.println("F1 version");
 
