@@ -4,33 +4,7 @@ public class CherryPick {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("F1 version");
-
-		System.out.println("F2 version");
-
-		System.out.println("F3 version");
-
-		System.out.println("r2 version");
-
-		System.out.println("r3 version");
-		
-		System.out.println("r2 version");
-
-		System.out.println("r3 version");
-		
-System.out.println("cherry pick version 1");
-		
-		System.out.println("r2 version");
-
-		System.out.println("r3 version");
-
-
-		System.out.println("cherry pick version 2");		
-		
-		
-		System.out.println("cherry pick version 3");	
-		
-		System.out.println("not required cherry pick version 3");	
+		System.out.println("F1 version");	
 	}
 }
 
