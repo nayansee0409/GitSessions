@@ -18,7 +18,12 @@ public class CherryPick {
 		
 		System.out.println("F6 version");
 		
-		
+		if (true)
+		{
+			System.out.println("stash is important");
+		}else{
+			System.out.println("stash is important");
+			
 	}
 }
 
